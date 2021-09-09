@@ -1,0 +1,15 @@
+.nav {
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+.nav_logo {
+  width: 80px;
+  position: fixed;
+  left: 0;
+  object-fit: contain;
+  padding-top: 15px;
+  padding-left: 15px;
+}
